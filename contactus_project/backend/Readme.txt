@@ -1,4 +1,4 @@
-Create ".env" file  and to give the details 
+Create ".env" file  and to provide the details 
 
 SECRET_KEY='django-insecure-your-secret-key-here'
 DEBUG=True
